@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
