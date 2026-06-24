@@ -5,7 +5,4 @@ class Solution:
             if not i.isalnum():
                 s = s.replace(i,"")
         new = s[::-1]
-        if s==new:
-            return True
-        else:
-            return False
+        return new == s
