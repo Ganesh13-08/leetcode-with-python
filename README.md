@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/1732-find-the-highest-altitude) |
 ## Trie
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
