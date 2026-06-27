@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0169-majority-element) |
 | [1732-find-the-highest-altitude](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/1732-find-the-highest-altitude) |
 ## Trie
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0074-search-a-2d-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
