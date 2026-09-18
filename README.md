@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
