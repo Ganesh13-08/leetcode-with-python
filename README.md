@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
