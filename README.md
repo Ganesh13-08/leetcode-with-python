@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0164-maximum-gap) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Ganesh13-08/leetcode-with-python/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
